@@ -1,1 +1,1 @@
-# javascript-Spaces-per-four
+# 控制每四位加一个空格（银行卡号格式）
